@@ -1,3 +1,3 @@
 # csvReader
 
-Simple composable csv reader and report generator
+Simple composable csv reader and report generator, fully extensible.
